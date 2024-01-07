@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">{{NAME}}</string>
+    <string name="title">{{TITLE}}</string>
+    <string name="phone">{{PHONE NUMBER}}</string>
+    <string name="social_media">{{SOCIAL MEDIA}}</string>
+    <string name="email">{{EMAIL}}</string>
+</resources>
