@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Business Card</string>
-    <string name="name">{{NAME}}</string>
-    <string name="title">{{TITLE}}</string>
-    <string name="phone">{{PHONE NUMBER}}</string>
-    <string name="social_media">{{SOCIAL MEDIA}}</string>
-    <string name="email">{{EMAIL}}</string>
+    <string name="name">Jhon Doe</string>
+    <string name="title">Junior Mobile App Developer</string>
+    <string name="phone">+62 888 1122 9988</string>
+    <string name="social_media">"@"jhon_doe</string>
+    <string name="email">jhon_doe@email.com</string>
 </resources>
